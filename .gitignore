@@ -1,0 +1,15 @@
+# Ambiente virtual (cada pessoa cria o seu, nunca vai para o Git)
+.venv/
+
+# Ficheiros gerados pelo Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Sistema operativo e editores
+.DS_Store
+.vscode/
+
+# Bases de dados criadas pelo pipeline (Sessão 6)
+/*.db

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "morabeza"
+version = "0.1.0"
+description = "Projeto de dados da Morabeza Distribuição (módulo Engenharia de Software e Python para Dados)"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+# Ferramentas de desenvolvimento (a partir da Sessão 1)
+dev = ["pytest>=8", "ruff>=0.6"]
+# Tratamento de dados (a partir da Sessão 3)
+dados = ["pandas>=2.2", "numpy>=1.26", "pyyaml>=6", "openpyxl>=3.1"]
+# Testes e qualidade de dados (a partir da Sessão 7)
+qualidade = ["pytest-cov>=5", "great_expectations>=1.3,<2"]
+# Modelação (Sessões 8 e 9)
+ml = ["scikit-learn>=1.5", "matplotlib>=3.8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,3 @@
+src/morabeza/resumo.py
+tests/test_resumo.py
+data/vendas_amostra.csv
