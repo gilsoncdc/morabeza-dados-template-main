@@ -1,0 +1,3 @@
+src/morabeza/vendas.py
+tests/test_s02_vendas.py
+data/vendas_s02.csv
