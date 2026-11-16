@@ -25,3 +25,6 @@ pythonpath = ["src"]
 
 [tool.ruff]
 line-length = 100
+
+[project.scripts]
+morabeza = "morabeza.cli:main"

@@ -1,0 +1,6 @@
+src/morabeza/apoio.py
+src/morabeza/config.py
+src/morabeza/cli.py
+src/morabeza/legado.py
+config.yaml
+tests/test_s03_projeto.py

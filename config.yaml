@@ -1,0 +1,3 @@
+# Configuração do projeto Morabeza. Muda aqui, não no código.
+ficheiro_vendas: data/vendas_amostra.csv
+moeda: CVE
