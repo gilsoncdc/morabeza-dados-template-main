@@ -34,8 +34,4 @@ bash obter_sessao.sh 2      # troca 2 pelo número da sessão
 python -m morabeza.resumo data/vendas_amostra.csv
 ```
 
-## Sobre mim
-Formando: Gilson Constantino Dias de Carvalho
-Ilha favorita: Santiago
-
-Ilha favorita: Fogo
+Ilha favorita: Maio
