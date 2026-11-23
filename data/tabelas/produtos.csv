@@ -1,0 +1,33 @@
+produto_id,nome,categoria,preco_unitario
+P001,"Água mineral 1,5 L",Bebidas,90
+P002,Sumo de manga 1 L,Bebidas,220
+P003,Refrigerante cola 33 cl,Bebidas,110
+P004,Cerveja 33 cl,Bebidas,150
+P005,Grogue 70 cl,Bebidas,900
+P006,Café moído 250 g,Bebidas,480
+P007,Arroz 1 kg,Mercearia,160
+P008,Feijão 1 kg,Mercearia,260
+P009,Milho 1 kg,Mercearia,120
+P010,Óleo alimentar 1 L,Mercearia,330
+P011,Açúcar 1 kg,Mercearia,140
+P012,Farinha 1 kg,Mercearia,130
+P013,Massa esparguete 500 g,Mercearia,110
+P014,Atum em lata 120 g,Mercearia,210
+P015,Leite UHT 1 L,Mercearia,150
+P016,Sal 1 kg,Mercearia,60
+P017,Banana 1 kg,Frescos,180
+P018,Papaia 1 kg,Frescos,200
+P019,Batata 1 kg,Frescos,150
+P020,Cebola 1 kg,Frescos,140
+P021,Tomate 1 kg,Frescos,220
+P022,Queijo de cabra 250 g,Frescos,650
+P023,Ovos (dúzia),Frescos,360
+P024,Detergente roupa 3 kg,Limpeza,1250
+P025,Lixívia 1 L,Limpeza,180
+P026,Detergente loiça 1 L,Limpeza,260
+P027,Papel higiénico (12 rolos),Limpeza,690
+P028,Sabão azul 400 g,Limpeza,150
+P029,Champô 400 ml,Higiene,420
+P030,Gel de banho 750 ml,Higiene,480
+P031,Pasta de dentes 75 ml,Higiene,210
+P032,Desodorizante 150 ml,Higiene,390

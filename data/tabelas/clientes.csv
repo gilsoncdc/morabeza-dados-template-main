@@ -1,0 +1,481 @@
+cliente_id,nome,tipo,ilha,data_registo
+C0001,Snack-bar Lopes,Retalho,Boa Vista,2023-08-23
+C0002,Mercearia Brito,Retalho,São Vicente,2023-01-29
+C0003,Bar Fonseca,Retalho,Santiago,2023-10-22
+C0004,Mercearia Silva,Retalho,Santiago,2023-03-11
+C0005,Loja Silva,Retalho,Santo Antão,2023-10-08
+C0006,Snack-bar Pina,Empresa,Sal,2023-02-26
+C0007,Café Spencer,Retalho,São Vicente,2023-10-12
+C0008,Café Lopes,Retalho,Santiago,2024-07-30
+C0009,Snack-bar Rocha,HORECA,Fogo,2023-01-14
+C0010,Mercearia Varela,Retalho,Santiago,2024-02-26
+C0011,Minimercado Duarte,HORECA,Santiago,2023-12-17
+C0012,Café Spencer,Retalho,Boa Vista,2024-02-13
+C0013,Restaurante Brito,HORECA,Boa Vista,2023-03-25
+C0014,Loja Pina,HORECA,Santiago,2024-09-19
+C0015,Minimercado Moreira,HORECA,São Vicente,2024-04-05
+C0016,Loja Barros,HORECA,Santiago,2023-12-24
+C0017,Loja Andrade,HORECA,Santo Antão,2023-04-13
+C0018,Hotel Gomes,Retalho,Santiago,2024-08-20
+C0019,Minimercado Varela,Retalho,Santiago,2023-05-24
+C0020,Minimercado Semedo,Retalho,Sal,2024-02-23
+C0021,Snack-bar Moreira,Empresa,Fogo,2023-05-01
+C0022,Mercearia Andrade,Retalho,Sal,2023-10-14
+C0023,Restaurante Rocha,Empresa,São Vicente,2023-01-16
+C0024,Snack-bar Tavares,Retalho,Santiago,2024-03-23
+C0025,Hotel Andrade,Retalho,Santiago,2024-06-18
+C0026,Supermercado Silva,Retalho,Boa Vista,2023-10-04
+C0027,Minimercado Lopes,Retalho,Santiago,2024-06-06
+C0028,Hotel Delgado,Retalho,Santo Antão,2023-05-04
+C0029,Bar Andrade,Retalho,Santo Antão,2023-02-01
+C0030,Loja Varela,HORECA,Sal,2023-02-05
+C0031,Supermercado Semedo,Retalho,Santiago,2023-01-23
+C0032,Supermercado Cabral,Retalho,Santo Antão,2024-08-14
+C0033,Supermercado Pina,Empresa,Boa Vista,2023-12-15
+C0034,Pensão Brito,Retalho,Sal,2023-08-23
+C0035,Restaurante Gomes,Retalho,Santiago,2023-06-07
+C0036,Hotel Spencer,Empresa,São Vicente,2024-06-20
+C0037,Café Delgado,Retalho,Boa Vista,2023-10-20
+C0038,Pensão Andrade,HORECA,Santiago,2023-10-05
+C0039,Hotel Spencer,Retalho,Santiago,2023-06-22
+C0040,Mercearia Gomes,Retalho,São Vicente,2023-02-12
+C0041,Hotel Rocha,HORECA,Boa Vista,2024-01-07
+C0042,Hotel Gomes,Empresa,Santiago,2023-12-23
+C0043,Mercearia Varela,Empresa,Sal,2024-06-08
+C0044,Minimercado Évora,HORECA,São Vicente,2023-02-26
+C0045,Hotel Semedo,Retalho,Sal,2024-07-16
+C0046,Pensão Fonseca,HORECA,Santiago,2024-04-09
+C0047,Hotel Delgado,Empresa,Santo Antão,2024-04-09
+C0048,Loja Lopes,Empresa,Santiago,2023-09-08
+C0049,Minimercado Évora,Retalho,Boa Vista,2023-10-26
+C0050,Supermercado Moreira,Empresa,Santiago,2024-05-26
+C0051,Hotel Brito,HORECA,Sal,2023-08-28
+C0052,Mercearia Silva,Empresa,Santiago,2023-03-08
+C0053,Bar Andrade,Retalho,Santiago,2023-08-02
+C0054,Café Fonseca,Empresa,Fogo,2023-01-17
+C0055,Snack-bar Fonseca,HORECA,Santiago,2023-04-14
+C0056,Mercearia Rocha,Retalho,São Vicente,2023-03-20
+C0057,Café Delgado,Retalho,São Vicente,2024-05-01
+C0058,Supermercado Andrade,Retalho,Santiago,2024-08-25
+C0059,Café Tavares,HORECA,Sal,2023-08-11
+C0060,Mercearia Pina,HORECA,Santo Antão,2023-06-25
+C0061,Snack-bar Moreira,HORECA,Santiago,2024-05-12
+C0062,Café Gomes,HORECA,Fogo,2024-01-12
+C0063,Café Fonseca,HORECA,Santiago,2023-08-19
+C0064,Bar Monteiro,Retalho,São Vicente,2023-09-07
+C0065,Minimercado Spencer,HORECA,Santiago,2024-09-11
+C0066,Hotel Duarte,Retalho,Santiago,2023-05-19
+C0067,Bar Monteiro,Retalho,Sal,2023-11-14
+C0068,Restaurante Silva,Retalho,Santiago,2023-04-12
+C0069,Café Évora,Retalho,Santo Antão,2024-02-26
+C0070,Café Gomes,Empresa,Sal,2024-01-16
+C0071,Bar Delgado,Empresa,Santiago,2023-06-01
+C0072,Loja Andrade,Retalho,São Vicente,2023-10-24
+C0073,Minimercado Pina,Retalho,Santiago,2023-02-25
+C0074,Pensão Duarte,HORECA,Sal,2024-09-05
+C0075,Supermercado Cabral,HORECA,Fogo,2024-06-23
+C0076,Supermercado Brito,Empresa,Boa Vista,2024-06-14
+C0077,Restaurante Lopes,HORECA,Santiago,2023-07-23
+C0078,Minimercado Spencer,Retalho,Santiago,2024-06-08
+C0079,Restaurante Tavares,Retalho,Sal,2023-06-27
+C0080,Mercearia Varela,Retalho,Santiago,2023-02-12
+C0081,Supermercado Varela,Empresa,Santo Antão,2023-04-18
+C0082,Minimercado Rocha,Retalho,São Vicente,2023-10-17
+C0083,Mercearia Fonseca,Retalho,São Vicente,2023-11-28
+C0084,Mercearia Monteiro,HORECA,Boa Vista,2023-01-03
+C0085,Bar Tavares,Retalho,Fogo,2024-08-06
+C0086,Snack-bar Brito,Retalho,São Vicente,2024-06-27
+C0087,Supermercado Fonseca,Empresa,São Vicente,2023-09-22
+C0088,Pensão Brito,HORECA,Santiago,2023-06-13
+C0089,Hotel Delgado,HORECA,Santo Antão,2024-01-27
+C0090,Pensão Cabral,Empresa,Fogo,2023-10-02
+C0091,Bar Spencer,HORECA,Santiago,2024-02-14
+C0092,Minimercado Lopes,Empresa,Santiago,2023-06-01
+C0093,Restaurante Spencer,HORECA,Fogo,2023-06-20
+C0094,Restaurante Pina,HORECA,São Vicente,2023-02-26
+C0095,Pensão Brito,Retalho,Santiago,2024-01-26
+C0096,Mercearia Rocha,Retalho,Santiago,2024-09-05
+C0097,Mercearia Moreira,Retalho,Sal,2024-07-28
+C0098,Café Spencer,Retalho,Sal,2023-12-29
+C0099,Supermercado Semedo,Retalho,Santiago,2023-03-28
+C0100,Café Delgado,HORECA,São Vicente,2023-10-22
+C0101,Café Barros,HORECA,Boa Vista,2023-10-05
+C0102,Hotel Fortes,Retalho,Boa Vista,2024-05-11
+C0103,Café Brito,Retalho,Sal,2023-06-27
+C0104,Minimercado Andrade,HORECA,Boa Vista,2023-11-10
+C0105,Minimercado Pina,Retalho,Sal,2023-11-13
+C0106,Bar Monteiro,HORECA,Boa Vista,2024-06-25
+C0107,Restaurante Brito,Retalho,Santiago,2024-08-28
+C0108,Pensão Cabral,Empresa,Santiago,2024-06-02
+C0109,Bar Brito,Retalho,Santiago,2023-07-16
+C0110,Supermercado Gomes,Retalho,São Vicente,2023-01-15
+C0111,Mercearia Rocha,Retalho,Santiago,2024-01-25
+C0112,Loja Gomes,HORECA,Fogo,2023-11-10
+C0113,Pensão Rocha,Empresa,Santiago,2024-08-21
+C0114,Snack-bar Fortes,Retalho,Boa Vista,2023-01-24
+C0115,Hotel Varela,Retalho,Santiago,2024-02-13
+C0116,Bar Tavares,Retalho,Santiago,2023-09-05
+C0117,Hotel Monteiro,HORECA,Santiago,2023-11-26
+C0118,Supermercado Delgado,Retalho,Santiago,2023-08-25
+C0119,Hotel Semedo,Empresa,Santiago,2023-02-19
+C0120,Supermercado Moreira,Retalho,Santiago,2024-05-26
+C0121,Supermercado Rocha,Retalho,Santo Antão,2023-01-08
+C0122,Supermercado Cabral,HORECA,São Vicente,2023-05-27
+C0123,Café Silva,Retalho,São Vicente,2024-03-26
+C0124,Café Gomes,Retalho,Santiago,2024-01-12
+C0125,Snack-bar Gomes,HORECA,Santiago,2023-12-29
+C0126,Mercearia Fortes,Retalho,São Vicente,2023-10-26
+C0127,Hotel Rocha,Empresa,Santiago,2023-09-09
+C0128,Restaurante Barros,Retalho,Santiago,2024-06-12
+C0129,Restaurante Fonseca,HORECA,Santiago,2024-01-17
+C0130,Bar Delgado,HORECA,Boa Vista,2024-06-03
+C0131,Minimercado Duarte,Empresa,Santo Antão,2023-10-26
+C0132,Supermercado Rocha,Retalho,Santiago,2023-02-12
+C0133,Pensão Évora,HORECA,Santiago,2024-01-09
+C0134,Hotel Cabral,HORECA,Santiago,2024-05-25
+C0135,Mercearia Semedo,Empresa,Santiago,2024-03-05
+C0136,Hotel Rocha,HORECA,Santiago,2023-04-06
+C0137,Café Évora,Retalho,Boa Vista,2024-03-13
+C0138,Supermercado Barros,HORECA,Santiago,2024-02-26
+C0139,Supermercado Gomes,Retalho,Boa Vista,2023-02-07
+C0140,Loja Rocha,Retalho,Santiago,2023-02-12
+C0141,Loja Brito,HORECA,São Vicente,2024-02-20
+C0142,Pensão Andrade,HORECA,Boa Vista,2023-02-21
+C0143,Minimercado Fortes,HORECA,Santiago,2024-08-29
+C0144,Mercearia Silva,Retalho,Fogo,2024-08-22
+C0145,Bar Duarte,HORECA,Boa Vista,2023-07-03
+C0146,Restaurante Semedo,HORECA,Sal,2024-07-04
+C0147,Mercearia Fortes,Retalho,Santiago,2023-05-13
+C0148,Loja Silva,HORECA,Santiago,2023-10-20
+C0149,Loja Fortes,Empresa,São Vicente,2023-03-11
+C0150,Café Varela,Retalho,Santiago,2023-05-14
+C0151,Mercearia Spencer,Retalho,Fogo,2024-04-04
+C0152,Bar Gomes,HORECA,Fogo,2023-05-24
+C0153,Mercearia Delgado,Empresa,São Vicente,2023-05-22
+C0154,Restaurante Semedo,HORECA,Sal,2023-07-05
+C0155,Loja Rocha,Empresa,Sal,2023-05-25
+C0156,Minimercado Fortes,Empresa,Santiago,2023-08-13
+C0157,Restaurante Pina,HORECA,Santiago,2023-10-06
+C0158,Restaurante Andrade,HORECA,São Vicente,2023-02-13
+C0159,Minimercado Lopes,Retalho,São Vicente,2024-08-09
+C0160,Loja Pina,Retalho,Sal,2023-07-28
+C0161,Snack-bar Delgado,HORECA,Sal,2023-10-05
+C0162,Restaurante Andrade,Retalho,Santiago,2023-02-01
+C0163,Minimercado Semedo,Retalho,Santo Antão,2023-10-28
+C0164,Hotel Pina,Retalho,Santiago,2023-02-05
+C0165,Restaurante Silva,Retalho,Santiago,2023-07-09
+C0166,Mercearia Tavares,HORECA,Santiago,2024-07-09
+C0167,Pensão Duarte,Empresa,São Vicente,2023-03-20
+C0168,Pensão Tavares,Retalho,Santo Antão,2024-03-11
+C0169,Pensão Fortes,HORECA,Sal,2024-04-28
+C0170,Loja Fonseca,Retalho,São Vicente,2024-05-02
+C0171,Bar Semedo,HORECA,Fogo,2023-03-02
+C0172,Minimercado Gomes,Empresa,Santo Antão,2024-03-12
+C0173,Hotel Delgado,Retalho,São Vicente,2024-09-14
+C0174,Loja Duarte,Retalho,Boa Vista,2023-07-21
+C0175,Mercearia Spencer,Empresa,Santo Antão,2024-06-04
+C0176,Pensão Monteiro,Retalho,Santiago,2024-03-02
+C0177,Snack-bar Cabral,Empresa,São Vicente,2024-07-15
+C0178,Restaurante Lopes,Empresa,Sal,2024-07-17
+C0179,Bar Barros,Empresa,São Vicente,2023-05-21
+C0180,Supermercado Varela,Empresa,Santiago,2024-08-16
+C0181,Hotel Évora,Retalho,Santiago,2023-11-04
+C0182,Minimercado Évora,HORECA,Fogo,2023-09-20
+C0183,Restaurante Cabral,Retalho,Fogo,2023-01-08
+C0184,Minimercado Duarte,Retalho,Santiago,2024-07-18
+C0185,Café Varela,Empresa,Sal,2023-01-27
+C0186,Snack-bar Brito,Retalho,Sal,2024-04-21
+C0187,Hotel Évora,Retalho,São Vicente,2024-08-31
+C0188,Loja Monteiro,Empresa,Santiago,2023-05-18
+C0189,Restaurante Rocha,Empresa,Santiago,2023-01-14
+C0190,Hotel Gomes,Retalho,Sal,2023-12-27
+C0191,Pensão Lopes,Empresa,São Vicente,2024-07-23
+C0192,Supermercado Moreira,HORECA,Sal,2023-06-30
+C0193,Mercearia Fonseca,HORECA,Sal,2024-03-14
+C0194,Café Delgado,HORECA,Santo Antão,2023-05-14
+C0195,Pensão Brito,Retalho,Sal,2023-08-06
+C0196,Mercearia Fonseca,Retalho,Santiago,2023-11-15
+C0197,Hotel Spencer,Retalho,Santiago,2023-11-08
+C0198,Pensão Lopes,Retalho,São Vicente,2024-02-06
+C0199,Snack-bar Varela,Retalho,Santiago,2023-03-09
+C0200,Supermercado Silva,Retalho,São Vicente,2023-01-17
+C0201,Snack-bar Pina,Retalho,Santiago,2023-06-28
+C0202,Café Rocha,Retalho,Santiago,2023-07-18
+C0203,Mercearia Semedo,HORECA,Santiago,2024-04-19
+C0204,Snack-bar Évora,HORECA,Santiago,2023-09-05
+C0205,Hotel Pina,Retalho,Santiago,2024-05-13
+C0206,Loja Pina,HORECA,Santo Antão,2023-05-26
+C0207,Pensão Monteiro,HORECA,Santiago,2023-01-07
+C0208,Hotel Semedo,Retalho,Santo Antão,2024-04-03
+C0209,Snack-bar Cabral,HORECA,Santiago,2023-11-14
+C0210,Restaurante Cabral,Empresa,São Vicente,2023-05-25
+C0211,Bar Semedo,Retalho,São Vicente,2024-02-18
+C0212,Restaurante Delgado,HORECA,Sal,2024-01-13
+C0213,Restaurante Varela,HORECA,Fogo,2023-09-16
+C0214,Loja Andrade,Retalho,Santiago,2024-06-13
+C0215,Loja Tavares,HORECA,Sal,2024-07-26
+C0216,Mercearia Varela,HORECA,Santiago,2024-08-16
+C0217,Bar Varela,HORECA,Boa Vista,2023-07-31
+C0218,Bar Spencer,Retalho,São Vicente,2023-04-23
+C0219,Hotel Delgado,HORECA,Santiago,2023-09-15
+C0220,Café Lopes,HORECA,Santiago,2023-05-26
+C0221,Minimercado Andrade,Retalho,Santiago,2023-11-02
+C0222,Loja Fonseca,Retalho,Sal,2023-06-24
+C0223,Minimercado Brito,Empresa,Santiago,2024-08-21
+C0224,Supermercado Moreira,Retalho,São Vicente,2023-08-07
+C0225,Snack-bar Andrade,Retalho,São Vicente,2023-11-19
+C0226,Hotel Gomes,Retalho,Santiago,2023-06-30
+C0227,Pensão Delgado,Retalho,Santo Antão,2023-05-28
+C0228,Minimercado Duarte,HORECA,Boa Vista,2024-03-26
+C0229,Minimercado Delgado,Retalho,Sal,2023-08-21
+C0230,Bar Cabral,Retalho,Santiago,2023-10-29
+C0231,Loja Tavares,Retalho,Santiago,2024-07-09
+C0232,Mercearia Semedo,Empresa,Santiago,2023-02-02
+C0233,Snack-bar Cabral,Retalho,Sal,2023-04-16
+C0234,Pensão Delgado,Empresa,Santiago,2023-05-10
+C0235,Loja Fonseca,Retalho,Santiago,2023-04-23
+C0236,Pensão Silva,Retalho,Boa Vista,2023-06-09
+C0237,Hotel Varela,HORECA,Santiago,2023-01-21
+C0238,Café Rocha,HORECA,Santiago,2024-05-09
+C0239,Café Silva,HORECA,Santiago,2024-02-20
+C0240,Bar Andrade,Retalho,Santiago,2023-03-25
+C0241,Loja Pina,Empresa,Santiago,2024-05-23
+C0242,Mercearia Spencer,HORECA,São Vicente,2023-03-02
+C0243,Snack-bar Duarte,Empresa,Santo Antão,2023-05-05
+C0244,Restaurante Fonseca,Empresa,Sal,2024-02-11
+C0245,Pensão Fortes,HORECA,Santiago,2024-05-27
+C0246,Bar Tavares,HORECA,Sal,2023-02-24
+C0247,Minimercado Fonseca,Empresa,Santiago,2023-01-02
+C0248,Bar Monteiro,HORECA,Sal,2024-03-25
+C0249,Snack-bar Fortes,HORECA,Santiago,2024-06-19
+C0250,Restaurante Semedo,Retalho,Sal,2023-04-25
+C0251,Pensão Duarte,Retalho,Santo Antão,2024-02-28
+C0252,Mercearia Lopes,HORECA,Santo Antão,2024-02-09
+C0253,Bar Fortes,HORECA,São Vicente,2023-01-28
+C0254,Mercearia Spencer,Retalho,Santiago,2023-08-11
+C0255,Restaurante Brito,Retalho,Santiago,2023-01-03
+C0256,Snack-bar Évora,Retalho,Santiago,2023-02-19
+C0257,Mercearia Silva,Retalho,Santiago,2023-06-06
+C0258,Mercearia Spencer,HORECA,Santiago,2024-03-23
+C0259,Hotel Duarte,Empresa,Fogo,2024-01-17
+C0260,Hotel Delgado,Retalho,Santiago,2023-01-03
+C0261,Mercearia Duarte,HORECA,Santiago,2024-09-22
+C0262,Snack-bar Moreira,Retalho,Boa Vista,2024-04-27
+C0263,Restaurante Andrade,HORECA,Boa Vista,2023-01-08
+C0264,Hotel Pina,Retalho,Santiago,2024-08-01
+C0265,Restaurante Brito,HORECA,São Vicente,2024-09-21
+C0266,Snack-bar Semedo,Retalho,São Vicente,2023-05-15
+C0267,Café Moreira,HORECA,Sal,2023-10-03
+C0268,Restaurante Tavares,Retalho,Santiago,2023-11-06
+C0269,Snack-bar Cabral,Retalho,Boa Vista,2024-02-14
+C0270,Mercearia Moreira,Empresa,Santiago,2024-04-05
+C0271,Mercearia Tavares,HORECA,São Vicente,2024-03-30
+C0272,Mercearia Spencer,Retalho,Santo Antão,2023-07-12
+C0273,Pensão Duarte,Empresa,Santiago,2023-07-18
+C0274,Café Évora,Retalho,Boa Vista,2024-01-18
+C0275,Minimercado Andrade,Retalho,Santiago,2023-05-30
+C0276,Pensão Delgado,Retalho,Santiago,2023-01-20
+C0277,Minimercado Tavares,HORECA,São Vicente,2023-10-07
+C0278,Loja Fortes,HORECA,Santiago,2023-07-25
+C0279,Supermercado Gomes,Empresa,São Vicente,2024-05-01
+C0280,Supermercado Andrade,HORECA,São Vicente,2023-07-07
+C0281,Hotel Pina,Empresa,Boa Vista,2024-09-28
+C0282,Snack-bar Lopes,Empresa,Boa Vista,2024-03-04
+C0283,Hotel Fortes,Retalho,Fogo,2024-04-29
+C0284,Café Rocha,HORECA,São Vicente,2024-02-04
+C0285,Minimercado Cabral,Empresa,Fogo,2024-08-17
+C0286,Supermercado Cabral,Retalho,Fogo,2024-03-13
+C0287,Snack-bar Évora,Retalho,São Vicente,2024-08-12
+C0288,Restaurante Duarte,Empresa,Santiago,2024-07-15
+C0289,Bar Moreira,Retalho,Santiago,2024-04-12
+C0290,Café Pina,HORECA,Sal,2024-08-21
+C0291,Bar Andrade,Empresa,São Vicente,2023-01-19
+C0292,Hotel Silva,HORECA,Santiago,2023-03-08
+C0293,Bar Spencer,HORECA,Fogo,2024-04-01
+C0294,Restaurante Andrade,Retalho,Sal,2024-02-13
+C0295,Minimercado Évora,Retalho,Santiago,2023-03-04
+C0296,Snack-bar Fonseca,HORECA,Boa Vista,2023-08-06
+C0297,Mercearia Fortes,HORECA,São Vicente,2024-02-17
+C0298,Restaurante Fortes,HORECA,Santiago,2023-07-23
+C0299,Restaurante Moreira,HORECA,São Vicente,2024-07-28
+C0300,Pensão Évora,Empresa,São Vicente,2024-06-12
+C0301,Supermercado Évora,HORECA,Santo Antão,2023-06-04
+C0302,Hotel Gomes,HORECA,Sal,2023-12-05
+C0303,Snack-bar Tavares,HORECA,Santiago,2023-10-27
+C0304,Café Moreira,HORECA,Santiago,2023-10-11
+C0305,Hotel Lopes,Retalho,Santiago,2024-02-29
+C0306,Restaurante Gomes,HORECA,Santiago,2023-05-03
+C0307,Mercearia Delgado,HORECA,Boa Vista,2023-09-20
+C0308,Pensão Silva,Empresa,Santiago,2024-04-18
+C0309,Supermercado Fonseca,Retalho,Boa Vista,2023-06-19
+C0310,Mercearia Monteiro,Retalho,Santiago,2024-07-09
+C0311,Bar Lopes,Retalho,Sal,2023-01-30
+C0312,Snack-bar Barros,Retalho,Santiago,2024-03-02
+C0313,Supermercado Moreira,Retalho,Santiago,2024-03-05
+C0314,Hotel Cabral,Retalho,Santiago,2024-04-06
+C0315,Loja Cabral,Empresa,Fogo,2024-02-09
+C0316,Minimercado Lopes,HORECA,Sal,2023-03-12
+C0317,Mercearia Silva,Retalho,Santiago,2023-07-21
+C0318,Café Moreira,HORECA,Santiago,2023-07-22
+C0319,Pensão Monteiro,Retalho,Santiago,2023-06-16
+C0320,Minimercado Monteiro,Retalho,Sal,2023-10-28
+C0321,Bar Barros,HORECA,Santo Antão,2023-08-29
+C0322,Café Barros,HORECA,Sal,2024-05-15
+C0323,Restaurante Silva,HORECA,Boa Vista,2023-04-26
+C0324,Supermercado Évora,Retalho,Santiago,2023-03-04
+C0325,Loja Moreira,Retalho,Boa Vista,2023-09-18
+C0326,Minimercado Évora,Retalho,São Vicente,2023-05-13
+C0327,Bar Gomes,HORECA,Sal,2024-09-30
+C0328,Café Fonseca,HORECA,Santiago,2024-09-01
+C0329,Minimercado Cabral,Empresa,Sal,2023-12-30
+C0330,Bar Barros,Empresa,Santiago,2023-04-02
+C0331,Hotel Gomes,Retalho,Santiago,2024-06-08
+C0332,Snack-bar Cabral,HORECA,Santiago,2024-04-13
+C0333,Bar Silva,Empresa,São Vicente,2024-02-02
+C0334,Pensão Rocha,Retalho,Santiago,2023-09-20
+C0335,Pensão Évora,Retalho,São Vicente,2024-03-22
+C0336,Snack-bar Andrade,Retalho,Sal,2024-07-15
+C0337,Snack-bar Barros,HORECA,Santiago,2023-05-06
+C0338,Supermercado Fonseca,HORECA,Boa Vista,2023-02-13
+C0339,Snack-bar Duarte,Retalho,Sal,2023-09-09
+C0340,Supermercado Spencer,Empresa,Santo Antão,2024-04-16
+C0341,Bar Spencer,Retalho,Fogo,2023-10-30
+C0342,Hotel Spencer,HORECA,Santo Antão,2024-08-30
+C0343,Snack-bar Fortes,Retalho,Santo Antão,2023-09-24
+C0344,Minimercado Brito,HORECA,Fogo,2024-03-24
+C0345,Restaurante Évora,Retalho,Santo Antão,2024-03-12
+C0346,Café Moreira,HORECA,Santo Antão,2023-08-21
+C0347,Café Moreira,Retalho,Santiago,2024-04-09
+C0348,Pensão Semedo,HORECA,Santiago,2024-09-10
+C0349,Pensão Lopes,Empresa,Santo Antão,2024-06-14
+C0350,Loja Pina,Retalho,Santiago,2024-05-28
+C0351,Café Fortes,Empresa,Fogo,2024-01-19
+C0352,Café Évora,Retalho,Santo Antão,2024-03-10
+C0353,Minimercado Monteiro,Retalho,Sal,2024-03-19
+C0354,Loja Andrade,Retalho,Santiago,2023-06-21
+C0355,Hotel Tavares,Retalho,Sal,2024-07-26
+C0356,Restaurante Rocha,Retalho,Fogo,2024-04-27
+C0357,Loja Varela,Empresa,Santiago,2023-10-30
+C0358,Bar Fonseca,Retalho,Fogo,2024-08-03
+C0359,Bar Varela,HORECA,Sal,2023-12-31
+C0360,Bar Moreira,HORECA,Santo Antão,2024-02-13
+C0361,Pensão Rocha,HORECA,Santiago,2023-07-12
+C0362,Restaurante Lopes,Retalho,Fogo,2023-09-03
+C0363,Bar Pina,Retalho,Santiago,2024-08-09
+C0364,Snack-bar Pina,Retalho,Sal,2024-09-19
+C0365,Bar Spencer,HORECA,Santo Antão,2023-09-18
+C0366,Pensão Silva,Empresa,São Vicente,2023-02-07
+C0367,Pensão Cabral,Retalho,Santiago,2023-06-09
+C0368,Hotel Monteiro,Retalho,Santo Antão,2023-07-25
+C0369,Bar Duarte,HORECA,São Vicente,2024-02-21
+C0370,Hotel Semedo,Retalho,Santiago,2024-09-07
+C0371,Snack-bar Silva,HORECA,Fogo,2023-04-04
+C0372,Bar Monteiro,Empresa,Boa Vista,2024-02-01
+C0373,Supermercado Barros,Retalho,Santo Antão,2023-12-07
+C0374,Bar Fonseca,Retalho,Sal,2023-03-04
+C0375,Restaurante Duarte,Retalho,Santiago,2024-07-13
+C0376,Supermercado Fortes,HORECA,São Vicente,2023-12-26
+C0377,Restaurante Cabral,Empresa,São Vicente,2023-06-09
+C0378,Restaurante Silva,HORECA,São Vicente,2024-09-30
+C0379,Snack-bar Semedo,Retalho,Santiago,2023-01-08
+C0380,Snack-bar Rocha,Retalho,Santiago,2024-08-17
+C0381,Minimercado Tavares,HORECA,Santiago,2023-04-14
+C0382,Minimercado Moreira,HORECA,Santiago,2023-07-17
+C0383,Supermercado Fonseca,Retalho,Santiago,2023-10-19
+C0384,Minimercado Tavares,HORECA,São Vicente,2023-06-09
+C0385,Minimercado Andrade,HORECA,Sal,2023-07-18
+C0386,Hotel Gomes,Retalho,São Vicente,2023-06-21
+C0387,Loja Semedo,HORECA,São Vicente,2023-04-06
+C0388,Restaurante Spencer,Retalho,Santiago,2023-05-20
+C0389,Pensão Delgado,Retalho,Santiago,2023-03-19
+C0390,Pensão Lopes,HORECA,Santiago,2023-05-04
+C0391,Pensão Pina,HORECA,Santiago,2023-07-09
+C0392,Mercearia Silva,HORECA,Santiago,2023-07-14
+C0393,Restaurante Delgado,HORECA,Santiago,2024-09-12
+C0394,Supermercado Silva,Retalho,Santiago,2024-05-17
+C0395,Mercearia Brito,HORECA,Santiago,2024-03-11
+C0396,Bar Rocha,Retalho,Boa Vista,2023-12-04
+C0397,Minimercado Varela,Retalho,Santiago,2024-01-23
+C0398,Bar Barros,HORECA,Santiago,2023-05-24
+C0399,Pensão Brito,Retalho,Boa Vista,2024-04-02
+C0400,Café Brito,Retalho,Boa Vista,2024-06-19
+C0401,Snack-bar Semedo,Retalho,Sal,2023-12-27
+C0402,Loja Varela,HORECA,São Vicente,2023-10-06
+C0403,Pensão Silva,Empresa,Santiago,2024-08-20
+C0404,Supermercado Tavares,HORECA,Fogo,2023-04-09
+C0405,Pensão Monteiro,Retalho,Sal,2024-02-08
+C0406,Bar Rocha,Retalho,Santo Antão,2024-02-06
+C0407,Restaurante Gomes,Retalho,Santiago,2023-10-31
+C0408,Loja Évora,Retalho,Santiago,2023-02-04
+C0409,Loja Monteiro,HORECA,Fogo,2023-03-10
+C0410,Bar Évora,Retalho,Santiago,2023-01-15
+C0411,Snack-bar Semedo,Retalho,Santo Antão,2023-11-14
+C0412,Bar Cabral,HORECA,Boa Vista,2024-05-14
+C0413,Minimercado Spencer,Retalho,Santiago,2024-01-09
+C0414,Bar Rocha,Empresa,Sal,2023-07-17
+C0415,Hotel Silva,HORECA,Santiago,2024-02-26
+C0416,Bar Tavares,HORECA,Boa Vista,2024-02-01
+C0417,Supermercado Pina,Empresa,Sal,2023-11-25
+C0418,Supermercado Delgado,HORECA,Sal,2023-10-13
+C0419,Supermercado Monteiro,HORECA,Santiago,2024-03-05
+C0420,Bar Delgado,HORECA,Santiago,2024-09-28
+C0421,Hotel Tavares,HORECA,Santiago,2023-07-25
+C0422,Minimercado Fonseca,Empresa,Sal,2023-02-26
+C0423,Snack-bar Brito,Retalho,Fogo,2024-07-28
+C0424,Restaurante Barros,Retalho,Santiago,2024-09-22
+C0425,Snack-bar Varela,Retalho,São Vicente,2024-08-06
+C0426,Supermercado Semedo,Empresa,Fogo,2024-03-20
+C0427,Pensão Gomes,Retalho,Santiago,2023-12-13
+C0428,Café Monteiro,Empresa,Sal,2024-09-30
+C0429,Mercearia Spencer,Retalho,Fogo,2023-11-30
+C0430,Minimercado Cabral,Empresa,Sal,2023-04-29
+C0431,Loja Brito,Retalho,Santiago,2023-11-01
+C0432,Café Monteiro,Retalho,Sal,2023-07-08
+C0433,Mercearia Monteiro,HORECA,Santiago,2023-03-06
+C0434,Mercearia Spencer,Retalho,Santiago,2023-03-17
+C0435,Hotel Fortes,Retalho,Fogo,2023-03-10
+C0436,Bar Fortes,Retalho,Sal,2024-09-25
+C0437,Supermercado Pina,Retalho,Santiago,2024-07-01
+C0438,Mercearia Gomes,Empresa,Sal,2023-07-06
+C0439,Loja Andrade,HORECA,São Vicente,2023-06-13
+C0440,Restaurante Andrade,HORECA,Boa Vista,2023-06-08
+C0441,Hotel Évora,Retalho,Sal,2023-06-21
+C0442,Pensão Fonseca,Retalho,Boa Vista,2023-12-14
+C0443,Loja Barros,Empresa,Sal,2024-01-22
+C0444,Mercearia Fonseca,Empresa,Santiago,2024-07-19
+C0445,Café Varela,HORECA,São Vicente,2024-07-01
+C0446,Snack-bar Lopes,HORECA,Santiago,2023-12-15
+C0447,Mercearia Pina,Retalho,Santiago,2023-06-07
+C0448,Café Semedo,Retalho,Santiago,2023-01-10
+C0449,Supermercado Brito,HORECA,São Vicente,2023-05-27
+C0450,Mercearia Brito,Retalho,Santiago,2023-07-28
+C0451,Bar Duarte,Retalho,Santiago,2023-06-06
+C0452,Restaurante Monteiro,HORECA,Fogo,2024-02-08
+C0453,Snack-bar Semedo,Retalho,Santiago,2024-01-25
+C0454,Bar Rocha,Empresa,São Vicente,2023-11-02
+C0455,Bar Gomes,Retalho,Sal,2024-01-16
+C0456,Hotel Fortes,HORECA,Santiago,2023-05-17
+C0457,Pensão Cabral,Retalho,São Vicente,2023-07-06
+C0458,Supermercado Évora,HORECA,Santiago,2023-08-12
+C0459,Pensão Semedo,Retalho,Fogo,2023-09-18
+C0460,Snack-bar Monteiro,Retalho,Santiago,2023-10-01
+C0461,Café Barros,HORECA,Santiago,2024-09-18
+C0462,Hotel Delgado,Empresa,São Vicente,2023-01-08
+C0463,Snack-bar Spencer,HORECA,Sal,2023-10-20
+C0464,Mercearia Moreira,Retalho,Fogo,2024-02-03
+C0465,Hotel Semedo,Retalho,São Vicente,2023-01-08
+C0466,Snack-bar Fortes,Retalho,Santo Antão,2024-06-28
+C0467,Bar Andrade,Retalho,Sal,2023-09-28
+C0468,Restaurante Rocha,Retalho,Santo Antão,2023-04-17
+C0469,Loja Tavares,Empresa,Fogo,2024-07-31
+C0470,Minimercado Silva,Retalho,Fogo,2024-05-22
+C0471,Snack-bar Andrade,Retalho,Santiago,2023-08-03
+C0472,Hotel Rocha,Retalho,Fogo,2023-09-12
+C0473,Café Lopes,Retalho,Sal,2023-02-05
+C0474,Loja Cabral,Retalho,Santiago,2023-06-18
+C0475,Snack-bar Gomes,Retalho,Santiago,2023-01-19
+C0476,Café Barros,Retalho,Santiago,2024-01-03
+C0477,Minimercado Barros,HORECA,São Vicente,2023-06-16
+C0478,Supermercado Cabral,Empresa,Santiago,2023-04-25
+C0479,Snack-bar Varela,Retalho,Santiago,2023-08-14
+C0480,Hotel Barros,Retalho,Santiago,2023-07-15
