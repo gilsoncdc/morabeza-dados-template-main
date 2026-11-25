@@ -1,0 +1,31 @@
+{
+  "estado": "ok",
+  "pagina": 1,
+  "total": 4,
+  "dados": [
+    {
+      "produto_id": "P005",
+      "desconto_pct": 10,
+      "inicio": "2025-03-01",
+      "fim": "2025-04-30"
+    },
+    {
+      "produto_id": "P011",
+      "desconto_pct": 5,
+      "inicio": "2025-03-01",
+      "fim": "2025-04-30"
+    },
+    {
+      "produto_id": "P027",
+      "desconto_pct": 15,
+      "inicio": "2025-03-01",
+      "fim": "2025-04-30"
+    },
+    {
+      "produto_id": "P036",
+      "desconto_pct": 8,
+      "inicio": "2025-03-01",
+      "fim": "2025-04-30"
+    }
+  ]
+}
