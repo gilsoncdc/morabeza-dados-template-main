@@ -12,6 +12,7 @@ num pequeno produto de dados: leitura, limpeza, validação, testes e modelos.
 python -m venv .venv
 source .venv/bin/activate        # no Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
+rm Lab5_ficheiros.zip
 ```
 
 ## Verificar o teu trabalho
